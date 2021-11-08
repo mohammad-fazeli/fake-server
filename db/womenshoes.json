@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "id": 23,
+      "model": "نیم بوت زنانه مدل B1002",
+      "category": "کفش زنانه",
+      "Rated": 2.3,
+      "price": 181000,
+      "Discount": 28,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenshoes/B1002/B1002%20(1).jpg"
+    },
+    {
+      "id": 24,
+      "model": "نیم بوت زنانه مدل پاشنه مجلسی",
+      "category": "کفش زنانه",
+      "Rated": 5,
+      "price": 238000,
+      "Discount": 32,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenshoes/%D9%86%DB%8C%D9%85%20%D8%A8%D9%88%D8%AA%20%D8%B2%D9%86%D8%A7%D9%86%D9%87%20%D9%85%D8%AF%D9%84%20%D9%BE%D8%A7%D8%B4%D9%86%D9%87%20%D9%85%D8%AC%D9%84%D8%B3%DB%8C/%D9%86%DB%8C%D9%85%20%D8%A8%D9%88%D8%AA%20%D8%B2%D9%86%D8%A7%D9%86%D9%87%20%D9%85%D8%AF%D9%84%20%D9%BE%D8%A7%D8%B4%D9%86%D9%87%20%D9%85%D8%AC%D9%84%D8%B3%DB%8C%20(1).jpg"
+    },
+    {
+      "id": 25,
+      "model": "کفش مخصوص پیاده روی زنانه مدل J2-Wh",
+      "category": "کفش زنانه",
+      "Rated": 3.8,
+      "price": 149000,
+      "Discount": 24,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenshoes/J2-Wh/J2-Wh%20(1).jpg"
+    }
+  ],
+  "subdivision": [],
+  "filtrts": [
+    {
+      "name": "price",
+      "type": "range",
+      "startvalue": 0,
+      "endvalue": 238000,
+      "title": "قیمت"
+    },
+    {
+      "name": "Discount",
+      "type": "bool",
+      "title": "فقط کاللاهای دارای تخفیف"
+    },
+    { "name": "availability", "type": "bool", "title": "فقط کالاهای موجود" }
+  ]
+}

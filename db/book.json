@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "id": 26,
+      "model": "کتاب اثر مرکب اثر دارن هاردی انتشارات نگین ایران",
+      "category": "کتاب",
+      "Rated": 3.8,
+      "price": 18800,
+      "Discount": 75,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/01/a%20(1).jpg"
+    },
+    {
+      "id": 27,
+      "model": "کتاب معجزه شکرگزاری اثر راندا برن انتشارات نگین ایران",
+      "category": "کتاب",
+      "Rated": 4.1,
+      "price": 23000,
+      "Discount": 77,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/02/m%20(1).jpg"
+    },
+    {
+      "id": 28,
+      "model": "کتاب عادت های اتمی اثر جیمز کلییر نشر السانا",
+      "category": "کتاب",
+      "Rated": 3.5,
+      "price": 29900,
+      "Discount": 77,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/03/t%20(1).jpg"
+    }
+  ],
+  "subdivision": [],
+  "filtrts": [
+    {
+      "name": "price",
+      "type": "range",
+      "startvalue": 0,
+      "endvalue": 29900,
+      "title": "قیمت"
+    },
+    {
+      "name": "Discount",
+      "type": "bool",
+      "title": "فقط کاللاهای دارای تخفیف"
+    },
+    { "name": "availability", "type": "bool", "title": "فقط کالاهای موجود" }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "womenswear": [
+    {
+      "id": 17,
+      "model": "ست کت و شلوار زنانه السانا مدل راما کد 73401",
+      "category": "لباس زنانه",
+      "Rated": 3.9,
+      "price": 368000,
+      "Discount": 8,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenswear/73401/73401%20(1).jpg"
+    },
+    {
+      "id": 18,
+      "model": "ست کت و شلوار زنانه السانا مدل راما کد مانتو زنانه مانتو ولیعصر مدل همتا کد 29601",
+      "category": "لباس زنانه",
+      "Rated": 3.9,
+      "price": 248000,
+      "Discount": 17,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenswear/29601/29601%20(1).jpg"
+    },
+    {
+      "id": 19,
+      "model": "پانچو زنانه كد 54",
+      "category": "لباس زنانه",
+      "Rated": 2.6,
+      "price": 108000,
+      "Discount": 0,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenswear/54/54.jpg"
+    }
+  ],
+  "subdivision": [],
+  "filtrts": [
+    {
+      "name": "price",
+      "type": "range",
+      "startvalue": 0,
+      "endvalue": 368000,
+      "title": "قیمت"
+    },
+    {
+      "name": "Discount",
+      "type": "bool",
+      "title": "فقط کاللاهای دارای تخفیف"
+    },
+    { "name": "availability", "type": "bool", "title": "فقط کالاهای موجود" }
+  ]
+}

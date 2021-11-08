@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "id": 14,
+      "model": "سوییشرت مردانه باینت کد 563-1",
+      "category": "لباس مردانه",
+      "Rated": 3.8,
+      "price": 438000,
+      "Discount": 27,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/menswear/563-1/563-1%20(1).jpg"
+    },
+    {
+      "id": 15,
+      "model": "هودی مردانه طرح چنگ کد A03 رنگ مشکی",
+      "category": "لباس مردانه",
+      "Rated": 3.9,
+      "price": 116000,
+      "Discount": 0,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/menswear/A03/A03.jpg"
+    },
+    {
+      "id": 16,
+      "model": "پیراهن مردانه مدل rm9937",
+      "category": "لباس مردانه",
+      "Rated": 3.9,
+      "price": 88500,
+      "Discount": 0,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/menswear/rm9937/rm9937%20(1).jpg"
+    }
+  ],
+  "subdivision": [],
+  "filtrts": [
+    {
+      "name": "price",
+      "type": "range",
+      "startvalue": 0,
+      "endvalue": 438000,
+      "title": "قیمت"
+    },
+    {
+      "name": "Discount",
+      "type": "bool",
+      "title": "فقط کاللاهای دارای تخفیف"
+    },
+    { "name": "availability", "type": "bool", "title": "فقط کالاهای موجود" }
+  ]
+}

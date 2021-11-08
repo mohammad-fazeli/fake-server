@@ -1,0 +1,820 @@
+{
+  "": [
+    {
+      "id": 7,
+      "model": "لپ تاپ 15.6 اینچی ام اس آی مدل GE66 Raider",
+      "category": "لپ تاپ",
+      "Brand": "MSI",
+      "Rated": 4.1,
+      "price": 113385000,
+      "Discount": 0,
+      "availability": "Available",
+      "images": [
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(1).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(1).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(2).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(2).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(3).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(3).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(4).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(4).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(5).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(5).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(6).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(6).jpg"
+        }
+      ],
+      "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
+      "specifications": [
+        { "key": "ابعاد", "value": "160.8x78.1x7.4" },
+        { "key": "وزن", "value": "228 گرم" },
+        {
+          "key": "ساختار بدنه",
+          "value": "test value"
+        },
+        {
+          "key": "ویژگی‌های خاص",
+          "value": "test value"
+        },
+        { "key": "زمان معرفی", "value": "test value" },
+        { "key": "تراشه", "value": "test value" },
+        {
+          "key": "پردازنده‌ی مرکزی",
+          "value": "test value"
+        },
+        { "key": "نوع پردازنده", "value": "test value" },
+        {
+          "key": "فرکانس پردازنده‌ی مرکزی",
+          "value": "test value"
+        },
+        { "key": "پردازنده‌ی گرافیکی", "value": "test value" },
+        { "key": "حافظه داخلی", "value": "test value" },
+        { "key": "مقدار RAM", "value": "test value" },
+        { "key": "فناوری صفحه‌نمایش", "value": "test value" },
+        { "key": "اندازه", "value": "test value" },
+        { "key": "رزولوشن", "value": "test value" },
+        {
+          "key": "تراکم پیکسلی",
+          "value": "test value"
+        },
+        { "key": "نسبت تصویر", "value": "test value" },
+        { "key": "تعداد رنگ", "value": "test value" },
+        {
+          "key": "سایر قابلیت‌ها",
+          "value": "test value"
+        },
+        {
+          "key": "Wi-Fi",
+          "value": "test value"
+        },
+        { "key": "بلوتوث", "value": "test value" },
+        { "key": "فن‌آوری موبایل", "value": "test value" },
+        { "key": "درگاه‌های ارتباطی", "value": "test value" },
+        {
+          "key": "دوربین سلفی",
+          "value": "test value"
+        },
+        {
+          "key": "توضیحات تکمیلی صدا",
+          "value": "test value"
+        },
+        { "key": "سیستم عامل", "value": "test value" },
+        { "key": "نسخه سیستم عامل", "value": "test value" },
+        {
+          "key": "مشخصات باتری",
+          "value": "test value"
+        }
+      ],
+      "comments": [
+        {
+          "name": "محمد محمدی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "5روز پیش",
+          "rated": 4.4,
+          "Profile": "src"
+        },
+        {
+          "name": "فرهاد فرهادی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "2 ماه پیش",
+          "rated": 4.4,
+          "Profile": "src"
+        },
+        {
+          "name": "سارا دارایی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "1400/04/10",
+          "rated": 4.4,
+          "Profile": "src"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "model": "لپ تاپ 15.6 اینچی اچ پی مدل 15ef1013dx",
+      "category": "لپ تاپ",
+      "Brand": "HP",
+      "Rated": 4.4,
+      "price": 6899000,
+      "Discount": 0,
+      "availability": "Available",
+      "images": [
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(1).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(1).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(2).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(2).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(3).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(3).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(4).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(4).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(5).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(5).jpg"
+        }
+      ],
+      "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
+      "specifications": [
+        { "key": "ابعاد", "value": "160.8x78.1x7.4" },
+        { "key": "وزن", "value": "228 گرم" },
+        {
+          "key": "ساختار بدنه",
+          "value": "test value"
+        },
+        {
+          "key": "ویژگی‌های خاص",
+          "value": "test value"
+        },
+        { "key": "زمان معرفی", "value": "test value" },
+        { "key": "تراشه", "value": "test value" },
+        {
+          "key": "پردازنده‌ی مرکزی",
+          "value": "test value"
+        },
+        { "key": "نوع پردازنده", "value": "test value" },
+        {
+          "key": "فرکانس پردازنده‌ی مرکزی",
+          "value": "test value"
+        },
+        { "key": "پردازنده‌ی گرافیکی", "value": "test value" },
+        { "key": "حافظه داخلی", "value": "test value" },
+        { "key": "مقدار RAM", "value": "test value" },
+        { "key": "فناوری صفحه‌نمایش", "value": "test value" },
+        { "key": "اندازه", "value": "test value" },
+        { "key": "رزولوشن", "value": "test value" },
+        {
+          "key": "تراکم پیکسلی",
+          "value": "test value"
+        },
+        { "key": "نسبت تصویر", "value": "test value" },
+        { "key": "تعداد رنگ", "value": "test value" },
+        {
+          "key": "سایر قابلیت‌ها",
+          "value": "test value"
+        },
+        {
+          "key": "Wi-Fi",
+          "value": "test value"
+        },
+        { "key": "بلوتوث", "value": "test value" },
+        { "key": "فن‌آوری موبایل", "value": "test value" },
+        { "key": "درگاه‌های ارتباطی", "value": "test value" },
+        {
+          "key": "دوربین سلفی",
+          "value": "test value"
+        },
+        {
+          "key": "توضیحات تکمیلی صدا",
+          "value": "test value"
+        },
+        { "key": "سیستم عامل", "value": "test value" },
+        { "key": "نسخه سیستم عامل", "value": "test value" },
+        {
+          "key": "مشخصات باتری",
+          "value": "test value"
+        }
+      ],
+      "comments": [
+        {
+          "name": "محمد محمدی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "5روز پیش",
+          "rated": 4.4,
+          "Profile": "src"
+        },
+        {
+          "name": "فرهاد فرهادی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "2 ماه پیش",
+          "rated": 4.4,
+          "Profile": "src"
+        },
+        {
+          "name": "سارا دارایی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "1400/04/10",
+          "rated": 4.4,
+          "Profile": "src"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "model": "لپ تاپ 13 اینچی اپل مدل MacBook Pro MYD92 2020 همراه با تاچ بار",
+      "category": "لپ تاپ",
+      "Brand": "Apple",
+      "Rated": 4.5,
+      "price": 43964000,
+      "Discount": 0,
+      "availability": "Available",
+      "images": [
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(1).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(1).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(2).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(2).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(3).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(3).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(4).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(4).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(5).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(5).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(6).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(6).jpg"
+        }
+      ],
+      "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
+      "specifications": [
+        { "key": "ابعاد", "value": "160.8x78.1x7.4" },
+        { "key": "وزن", "value": "228 گرم" },
+        {
+          "key": "ساختار بدنه",
+          "value": "test value"
+        },
+        {
+          "key": "ویژگی‌های خاص",
+          "value": "test value"
+        },
+        { "key": "زمان معرفی", "value": "test value" },
+        { "key": "تراشه", "value": "test value" },
+        {
+          "key": "پردازنده‌ی مرکزی",
+          "value": "test value"
+        },
+        { "key": "نوع پردازنده", "value": "test value" },
+        {
+          "key": "فرکانس پردازنده‌ی مرکزی",
+          "value": "test value"
+        },
+        { "key": "پردازنده‌ی گرافیکی", "value": "test value" },
+        { "key": "حافظه داخلی", "value": "test value" },
+        { "key": "مقدار RAM", "value": "test value" },
+        { "key": "فناوری صفحه‌نمایش", "value": "test value" },
+        { "key": "اندازه", "value": "test value" },
+        { "key": "رزولوشن", "value": "test value" },
+        {
+          "key": "تراکم پیکسلی",
+          "value": "test value"
+        },
+        { "key": "نسبت تصویر", "value": "test value" },
+        { "key": "تعداد رنگ", "value": "test value" },
+        {
+          "key": "سایر قابلیت‌ها",
+          "value": "test value"
+        },
+        {
+          "key": "Wi-Fi",
+          "value": "test value"
+        },
+        { "key": "بلوتوث", "value": "test value" },
+        { "key": "فن‌آوری موبایل", "value": "test value" },
+        { "key": "درگاه‌های ارتباطی", "value": "test value" },
+        {
+          "key": "دوربین سلفی",
+          "value": "test value"
+        },
+        {
+          "key": "توضیحات تکمیلی صدا",
+          "value": "test value"
+        },
+        { "key": "سیستم عامل", "value": "test value" },
+        { "key": "نسخه سیستم عامل", "value": "test value" },
+        {
+          "key": "مشخصات باتری",
+          "value": "test value"
+        }
+      ],
+      "comments": [
+        {
+          "name": "محمد محمدی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "5روز پیش",
+          "rated": 4.4,
+          "Profile": "src"
+        },
+        {
+          "name": "فرهاد فرهادی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "2 ماه پیش",
+          "rated": 4.4,
+          "Profile": "src"
+        },
+        {
+          "name": "سارا دارایی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "1400/04/10",
+          "rated": 4.4,
+          "Profile": "src"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "model": "لپ تاپ 15.6 اینچی اچ پی مدل لپ تاپ 15 اینچی مایکروسافت مدل Surface Book 3- F",
+      "category": "لپ تاپ",
+      "Brand": "Microsoft",
+      "Rated": 4.4,
+      "price": 93990000,
+      "Discount": 0,
+      "availability": "Available",
+      "images": [
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(1).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(1).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(2).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(2).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(3).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(3).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(4).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(4).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(5).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(5).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(6).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(6).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(7).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(7).jpg"
+        }
+      ],
+      "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
+      "specifications": [
+        { "key": "ابعاد", "value": "160.8x78.1x7.4" },
+        { "key": "وزن", "value": "228 گرم" },
+        {
+          "key": "ساختار بدنه",
+          "value": "test value"
+        },
+        {
+          "key": "ویژگی‌های خاص",
+          "value": "test value"
+        },
+        { "key": "زمان معرفی", "value": "test value" },
+        { "key": "تراشه", "value": "test value" },
+        {
+          "key": "پردازنده‌ی مرکزی",
+          "value": "test value"
+        },
+        { "key": "نوع پردازنده", "value": "test value" },
+        {
+          "key": "فرکانس پردازنده‌ی مرکزی",
+          "value": "test value"
+        },
+        { "key": "پردازنده‌ی گرافیکی", "value": "test value" },
+        { "key": "حافظه داخلی", "value": "test value" },
+        { "key": "مقدار RAM", "value": "test value" },
+        { "key": "فناوری صفحه‌نمایش", "value": "test value" },
+        { "key": "اندازه", "value": "test value" },
+        { "key": "رزولوشن", "value": "test value" },
+        {
+          "key": "تراکم پیکسلی",
+          "value": "test value"
+        },
+        { "key": "نسبت تصویر", "value": "test value" },
+        { "key": "تعداد رنگ", "value": "test value" },
+        {
+          "key": "سایر قابلیت‌ها",
+          "value": "test value"
+        },
+        {
+          "key": "Wi-Fi",
+          "value": "test value"
+        },
+        { "key": "بلوتوث", "value": "test value" },
+        { "key": "فن‌آوری موبایل", "value": "test value" },
+        { "key": "درگاه‌های ارتباطی", "value": "test value" },
+        {
+          "key": "دوربین سلفی",
+          "value": "test value"
+        },
+        {
+          "key": "توضیحات تکمیلی صدا",
+          "value": "test value"
+        },
+        { "key": "سیستم عامل", "value": "test value" },
+        { "key": "نسخه سیستم عامل", "value": "test value" },
+        {
+          "key": "مشخصات باتری",
+          "value": "test value"
+        }
+      ],
+      "comments": [
+        {
+          "name": "محمد محمدی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "5روز پیش",
+          "rated": 4.4,
+          "Profile": "src"
+        },
+        {
+          "name": "فرهاد فرهادی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "2 ماه پیش",
+          "rated": 4.4,
+          "Profile": "src"
+        },
+        {
+          "name": "سارا دارایی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "1400/04/10",
+          "rated": 4.4,
+          "Profile": "src"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "model": "لپ تاپ 14 اینچی ایسوس مدل ZenBook 14 UX425EA-KI504",
+      "category": "لپ تاپ",
+      "Brand": "ASUS",
+      "Rated": 3.2,
+      "price": 22640000,
+      "Discount": 0,
+      "availability": "Available",
+      "images": [
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(4).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(4).jpg"
+        }
+      ],
+      "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
+      "specifications": [
+        { "key": "ابعاد", "value": "160.8x78.1x7.4" },
+        { "key": "وزن", "value": "228 گرم" },
+        {
+          "key": "ساختار بدنه",
+          "value": "test value"
+        },
+        {
+          "key": "ویژگی‌های خاص",
+          "value": "test value"
+        },
+        { "key": "زمان معرفی", "value": "test value" },
+        { "key": "تراشه", "value": "test value" },
+        {
+          "key": "پردازنده‌ی مرکزی",
+          "value": "test value"
+        },
+        { "key": "نوع پردازنده", "value": "test value" },
+        {
+          "key": "فرکانس پردازنده‌ی مرکزی",
+          "value": "test value"
+        },
+        { "key": "پردازنده‌ی گرافیکی", "value": "test value" },
+        { "key": "حافظه داخلی", "value": "test value" },
+        { "key": "مقدار RAM", "value": "test value" },
+        { "key": "فناوری صفحه‌نمایش", "value": "test value" },
+        { "key": "اندازه", "value": "test value" },
+        { "key": "رزولوشن", "value": "test value" },
+        {
+          "key": "تراکم پیکسلی",
+          "value": "test value"
+        },
+        { "key": "نسبت تصویر", "value": "test value" },
+        { "key": "تعداد رنگ", "value": "test value" },
+        {
+          "key": "سایر قابلیت‌ها",
+          "value": "test value"
+        },
+        {
+          "key": "Wi-Fi",
+          "value": "test value"
+        },
+        { "key": "بلوتوث", "value": "test value" },
+        { "key": "فن‌آوری موبایل", "value": "test value" },
+        { "key": "درگاه‌های ارتباطی", "value": "test value" },
+        {
+          "key": "دوربین سلفی",
+          "value": "test value"
+        },
+        {
+          "key": "توضیحات تکمیلی صدا",
+          "value": "test value"
+        },
+        { "key": "سیستم عامل", "value": "test value" },
+        { "key": "نسخه سیستم عامل", "value": "test value" },
+        {
+          "key": "مشخصات باتری",
+          "value": "test value"
+        }
+      ],
+      "comments": [
+        {
+          "name": "محمد محمدی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "5روز پیش",
+          "rated": 4.4,
+          "Profile": "src"
+        },
+        {
+          "name": "فرهاد فرهادی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "2 ماه پیش",
+          "rated": 4.4,
+          "Profile": "src"
+        },
+        {
+          "name": "سارا دارایی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "1400/04/10",
+          "rated": 4.4,
+          "Profile": "src"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "model": "لپ تاپ 15.6 اینچی اچ پی مدل لپ تاپ 14 اینچی ایسوس مدل ZenBook 14 UX482EG-KA151T",
+      "category": "لپ تاپ",
+      "Brand": "ASUS",
+      "Rated": 4.3,
+      "price": 47800000,
+      "Discount": 0,
+      "availability": "Available",
+      "images": [
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(1).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(1).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(2).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(2).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(3).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(3).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(4).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(4).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(5).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(5).jpg"
+        }
+      ],
+      "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
+      "specifications": [
+        { "key": "ابعاد", "value": "160.8x78.1x7.4" },
+        { "key": "وزن", "value": "228 گرم" },
+        {
+          "key": "ساختار بدنه",
+          "value": "test value"
+        },
+        {
+          "key": "ویژگی‌های خاص",
+          "value": "test value"
+        },
+        { "key": "زمان معرفی", "value": "test value" },
+        { "key": "تراشه", "value": "test value" },
+        {
+          "key": "پردازنده‌ی مرکزی",
+          "value": "test value"
+        },
+        { "key": "نوع پردازنده", "value": "test value" },
+        {
+          "key": "فرکانس پردازنده‌ی مرکزی",
+          "value": "test value"
+        },
+        { "key": "پردازنده‌ی گرافیکی", "value": "test value" },
+        { "key": "حافظه داخلی", "value": "test value" },
+        { "key": "مقدار RAM", "value": "test value" },
+        { "key": "فناوری صفحه‌نمایش", "value": "test value" },
+        { "key": "اندازه", "value": "test value" },
+        { "key": "رزولوشن", "value": "test value" },
+        {
+          "key": "تراکم پیکسلی",
+          "value": "test value"
+        },
+        { "key": "نسبت تصویر", "value": "test value" },
+        { "key": "تعداد رنگ", "value": "test value" },
+        {
+          "key": "سایر قابلیت‌ها",
+          "value": "test value"
+        },
+        {
+          "key": "Wi-Fi",
+          "value": "test value"
+        },
+        { "key": "بلوتوث", "value": "test value" },
+        { "key": "فن‌آوری موبایل", "value": "test value" },
+        { "key": "درگاه‌های ارتباطی", "value": "test value" },
+        {
+          "key": "دوربین سلفی",
+          "value": "test value"
+        },
+        {
+          "key": "توضیحات تکمیلی صدا",
+          "value": "test value"
+        },
+        { "key": "سیستم عامل", "value": "test value" },
+        { "key": "نسخه سیستم عامل", "value": "test value" },
+        {
+          "key": "مشخصات باتری",
+          "value": "test value"
+        }
+      ],
+      "comments": [
+        {
+          "name": "محمد محمدی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "5روز پیش",
+          "rated": 4.4,
+          "Profile": "src"
+        },
+        {
+          "name": "فرهاد فرهادی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "2 ماه پیش",
+          "rated": 4.4,
+          "Profile": "src"
+        },
+        {
+          "name": "سارا دارایی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "1400/04/10",
+          "rated": 4.4,
+          "Profile": "src"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "model": "لپ تاپ 13 اینچی اپل مدل MacBook Air MGN63 2020",
+      "category": "لپ تاپ",
+      "Brand": "Apple",
+      "Rated": 4.3,
+      "price": 29964000,
+      "Discount": 0,
+      "availability": "Available",
+      "images": [
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(1).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(1).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(2).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(2).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(3).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(3).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(4).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(4).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(5).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(5).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(6).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(6).jpg"
+        }
+      ],
+      "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
+      "specifications": [
+        { "key": "ابعاد", "value": "160.8x78.1x7.4" },
+        { "key": "وزن", "value": "228 گرم" },
+        {
+          "key": "ساختار بدنه",
+          "value": "test value"
+        },
+        {
+          "key": "ویژگی‌های خاص",
+          "value": "test value"
+        },
+        { "key": "زمان معرفی", "value": "test value" },
+        { "key": "تراشه", "value": "test value" },
+        {
+          "key": "پردازنده‌ی مرکزی",
+          "value": "test value"
+        },
+        { "key": "نوع پردازنده", "value": "test value" },
+        {
+          "key": "فرکانس پردازنده‌ی مرکزی",
+          "value": "test value"
+        },
+        { "key": "پردازنده‌ی گرافیکی", "value": "test value" },
+        { "key": "حافظه داخلی", "value": "test value" },
+        { "key": "مقدار RAM", "value": "test value" },
+        { "key": "فناوری صفحه‌نمایش", "value": "test value" },
+        { "key": "اندازه", "value": "test value" },
+        { "key": "رزولوشن", "value": "test value" },
+        {
+          "key": "تراکم پیکسلی",
+          "value": "test value"
+        },
+        { "key": "نسبت تصویر", "value": "test value" },
+        { "key": "تعداد رنگ", "value": "test value" },
+        {
+          "key": "سایر قابلیت‌ها",
+          "value": "test value"
+        },
+        {
+          "key": "Wi-Fi",
+          "value": "test value"
+        },
+        { "key": "بلوتوث", "value": "test value" },
+        { "key": "فن‌آوری موبایل", "value": "test value" },
+        { "key": "درگاه‌های ارتباطی", "value": "test value" },
+        {
+          "key": "دوربین سلفی",
+          "value": "test value"
+        },
+        {
+          "key": "توضیحات تکمیلی صدا",
+          "value": "test value"
+        },
+        { "key": "سیستم عامل", "value": "test value" },
+        { "key": "نسخه سیستم عامل", "value": "test value" },
+        {
+          "key": "مشخصات باتری",
+          "value": "test value"
+        }
+      ],
+      "comments": [
+        {
+          "name": "محمد محمدی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "5روز پیش",
+          "rated": 4.4,
+          "Profile": "src"
+        },
+        {
+          "name": "فرهاد فرهادی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "2 ماه پیش",
+          "rated": 4.4,
+          "Profile": "src"
+        },
+        {
+          "name": "سارا دارایی",
+          "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
+          "time": "1400/04/10",
+          "rated": 4.4,
+          "Profile": "src"
+        }
+      ]
+    }
+  ]
+}

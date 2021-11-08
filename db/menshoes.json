@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "id": 20,
+      "model": "کفش مخصوص پیاده روی سعیدی کد Sa 304",
+      "category": "کفش مردانه",
+      "Rated": 4.2,
+      "price": 175000,
+      "Discount": 0,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/menshoes/Sa%20304/Sa%20304%20(1).jpg"
+    },
+    {
+      "id": 21,
+      "model": "کفش پیاده روی مردانه هامتو مدل 110396A-1",
+      "category": "کفش مردانه",
+      "Rated": 4.2,
+      "price": 1550000,
+      "Discount": 0,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/menshoes/110396A-1/110396A-1%20(1).jpg"
+    },
+    {
+      "id": 22,
+      "model": "نیم بوت مردانه پاما مدل SNO-85 کد G1274",
+      "category": "کفش مردانه",
+      "Rated": 4.2,
+      "price": 649000,
+      "Discount": 0,
+      "availability": "Available",
+      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/menshoes/G1274/G1274%20(1).jpg"
+    }
+  ],
+  "subdivision": [],
+  "filtrts": [
+    {
+      "name": "price",
+      "type": "range",
+      "startvalue": 0,
+      "endvalue": 1550000,
+      "title": "قیمت"
+    },
+    {
+      "name": "Discount",
+      "type": "bool",
+      "title": "فقط کاللاهای دارای تخفیف"
+    },
+    { "name": "availability", "type": "bool", "title": "فقط کالاهای موجود" }
+  ]
+}
