@@ -27,7 +27,7 @@ const port = process.env.PORT || 3200;
 
 server.use(middlewares);
 
-server.use(db);
+
 server.use("/posts", posts);
 server.use("/products", products);
 
