@@ -10,24 +10,28 @@
       "availability": "Available",
       "images": [
         {
-          "original": "/img/macbook-01.png",
-          "thumbnail": "/img/macbook-01.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(1).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(1).jpg"
         },
         {
-          "original": "/img/macbook-02.png",
-          "thumbnail": "/img/macbook-02.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(2).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(2).jpg"
         },
         {
-          "original": "/img/macbook-03.png",
-          "thumbnail": "/img/macbook-03.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(3).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(3).jpg"
         },
         {
-          "original": "/img/macbook-04.png",
-          "thumbnail": "/img/macbook-04.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(4).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(4).jpg"
         },
         {
-          "original": "/img/macbook-05.png",
-          "thumbnail": "/img/macbook-05.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(5).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(5).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(6).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(6).jpg"
         }
       ]
     },
