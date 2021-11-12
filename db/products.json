@@ -45,28 +45,32 @@
       "availability": "Available",
       "images": [
         {
-          "original": "/img/sorface-01.png",
-          "thumbnail": "/img/sorface-01.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(1).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(1).jpg"
         },
         {
-          "original": "/img/macbook-02.png",
-          "thumbnail": "/img/macbook-02.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(2).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(2).jpg"
         },
         {
-          "original": "/img/sorface-03.png",
-          "thumbnail": "/img/sorface-03.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(3).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(3).jpg"
         },
         {
-          "original": "/img/sorface-04.png",
-          "thumbnail": "/img/sorface-04.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(4).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(4).jpg"
         },
         {
-          "original": "/img/sorface-05.png",
-          "thumbnail": "/img/sorface-05.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(5).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(5).jpg"
         },
         {
-          "original": "/img/sorface-06.png",
-          "thumbnail": "/img/sorface-06.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(6).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(6).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(7).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(7).jpg"
         }
       ]
     },
@@ -80,30 +84,30 @@
       "availability": "Not available",
       "images": [
         {
-          "original": "/img/hp-01.png",
-          "thumbnail": "/img/hp-01.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(1).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(1).jpg"
         },
         {
-          "original": "/img/hp-02.png",
-          "thumbnail": "/img/hp-02.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(2).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(2).jpg"
         },
         {
-          "original": "/img/hp-03.png",
-          "thumbnail": "/img/hp-03.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(3).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(3).jpg"
         },
         {
-          "original": "/img/hp-04.png",
-          "thumbnail": "/img/hp-04.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(4).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(4).jpg"
         },
         {
-          "original": "/img/hp-05.png",
-          "thumbnail": "/img/hp-05.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(5).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(5).jpg"
         }
       ]
     },
     {
       "id": 4,
-      "model": "ZenBook UM425UG-AM006",
+      "model": "ZenBook 14 UX482EG-KA151T",
       "Brand": "Asus",
       "Rated": "3.8",
       "price": 200,
@@ -111,16 +115,24 @@
       "availability": "Available",
       "images": [
         {
-          "original": "/img/zenbook-01.png",
-          "thumbnail": "/img/zenbook-01.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(1).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(1).jpg"
         },
         {
-          "original": "/img/zenbook-02.png",
-          "thumbnail": "/img/zenbook-02.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(2).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(2).jpg"
         },
         {
-          "original": "/img/zenbook-03.png",
-          "thumbnail": "/img/zenbook-03.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(3).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(3).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(4).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(4).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(5).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(5).jpg"
         }
       ]
     },
@@ -134,20 +146,28 @@
       "availability": "Available",
       "images": [
         {
-          "original": "/img/msi-01.png",
-          "thumbnail": "/img/msi-01.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(1).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(1).jpg"
         },
         {
-          "original": "/img/msi-02.png",
-          "thumbnail": "/img/msi-02.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(2).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(2).jpg"
         },
         {
-          "original": "/img/msi-03.png",
-          "thumbnail": "/img/msi-03.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(3).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(3).jpg"
         },
         {
-          "original": "/img/msi-04.png",
-          "thumbnail": "/img/msi-04.png"
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(4).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(4).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(5).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(5).jpg"
+        },
+        {
+          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(6).jpg",
+          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(6).jpg"
         }
       ]
     }
