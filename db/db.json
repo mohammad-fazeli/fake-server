@@ -3,30 +3,30 @@
     {
       "name": "لپ تاپ",
       "address": "laptop",
-      "subdivision": [],
+      "subvision": [],
       "count": 10
     },
     {
       "name": "موبايل",
       "address": "mobile",
-      "subdivision": [],
+      "subvision": [],
       "count": 10
     },
     {
       "name": "مد و پوشاک",
       "address": "clothing",
-      "subdivision": [
-        { "naem": "لباس مردانه", "address": "menswear" },
-        { "naem": "لباس زنانه", "address": "womenswear" },
-        { "naem": "کفش مردانه", "address": "menshoes" },
-        { "naem": "کفش زنانه", "address": "womenshoes" }
+      "subvision": [
+        { "name": "لباس مردانه", "address": "menswear" },
+        { "name": "لباس زنانه", "address": "womenswear" },
+        { "name": "کفش مردانه", "address": "menshoes" },
+        { "name": "کفش زنانه", "address": "womenshoes" }
       ],
       "count": 10
     },
     {
       "name": "كتاب",
       "address": "book",
-      "subdivision": [
+      "subvision": [
         { "name": "علمي", "address": "academic" },
         { "name": "داستانی", "address": "story" }
       ],
