@@ -3,80 +3,99 @@
     {
       "id": 1,
       "model": "گوشی موبایل شیائومی مدل POCO X3 Pro M2102J20SG دو سیم‌ کارت ظرفیت 256 گیگابایت و 8 گیگابایت رم",
-      "category": "موبایل",
-      "Brand": "شیائومی",
+      "category": "mobile",
+      "Brand": "xiaomi",
       "Rated": 4.4,
       "price": 6899000,
       "Discount": 0,
-      "availability": "Available",
-      "images": "/img/macbook-01.png"
+      "availability": true,
+      "images": "/img/mobile/poco x3 pro/poco x3 pro (1).jpg"
     },
     {
       "id": 2,
       "model": "گوشی موبایل اپل مدل iPhone 12 Pro Max A2412 دو سیم‌ کارت ظرفیت 256 گیگابایت",
-      "Brand": "اپل",
+      "category": "mobile",
+      "Brand": "apple",
       "Rated": 4.4,
       "price": 40699900,
       "Discount": 0,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/moblie/iPhone%2012%20Pro%20Max/iPhone%2012%20Pro%20Max%20(1).jpg"
+      "availability": true,
+      "images": "/img/mobile/iPhone 12 Pro Max/iPhone 12 Pro Max (1).jpg"
     },
     {
       "id": 3,
       "model": "گوشی موبایل اپل مدل iPhone 13 دو سیم‌ کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
-      "Brand": "اپل",
+      "category": "mobile",
+      "Brand": "apple",
       "Rated": 4,
       "price": 31499000,
       "Discount": 0,
-      "availability": "available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/moblie/iPhone%2013/iPhone%2013%20(1).jpg"
+      "availability": true,
+      "images": "/img/mobile/iPhone 13/iPhone 13 (1).jpg"
     },
     {
       "id": 4,
       "model": "گوشی موبایل سامسونگ مدل Galaxy S20 FE 5G SM-G781B/DS دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
-      "Brand": "سامسونگ",
+      "category": "mobile",
+      "Brand": "samsung",
       "Rated": 4.3,
-      "price": 200,
+      "price": 0,
       "Discount": 0,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/moblie/s20/s20%20(1).jpg"
+      "availability": false,
+      "images": "/img/mobile/s20/s20 (1).jpg"
     },
     {
       "id": 5,
       "model": "گوشی موبایل سامسونگ مدل Galaxy Note20 Ultra 5G SM-N986 دو سیم کارت ظرفیت 256 گیگابایت",
-      "Brand": "سامسونگ",
+      "category": "mobile",
+      "Brand": "samsung",
       "Rated": "4.3",
       "price": 25890000,
       "Discount": 0,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/moblie/Galaxy%20Note20%20Ultra%205G/Galaxy%20Note20%20Ultra%205G%20(1).jpg"
+      "availability": true,
+      "images": "/img/mobile/Galaxy Note20 Ultra 5G/Galaxy Note20 Ultra 5G (1).jpg"
     },
     {
       "id": 6,
       "model": "گوشی موبایل شیائومی مدل Mi 11i 5G M2012K11G دو سیم‌ کارت ظرفیت 256 گیگابایت و 8 گیگابایت رم",
-      "Brand": "شیائومی",
+      "category": "mobile",
+      "Brand": "xiaomi",
       "Rated": "4.3",
       "price": 14699000,
       "Discount": 0,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/moblie/Mi%2011i%205G/%20Mi%2011i%205G%20(1).jpg"
+      "availability": true,
+      "images": "/img/mobile/Mi 11i 5G/Mi 11i 5G (1).jpg"
     }
   ],
   "subdivision": [],
-  "filtrts": [
-    { "name": "Brand", "type": "list", "value": [], "title": "برند" },
+  "filters": [
     {
       "name": "price",
       "type": "range",
-      "startvalue": 0,
-      "endvalue": 40699900,
-      "title": "قیمت"
+      "min": 0,
+      "max": 40699900,
+      "title": "محدوده قیمت مورد نظر"
     },
+    {
+      "name": "Brand",
+      "type": "list",
+      "value": [
+        { "eName": "xiaomi", "pName": "شیائومی" },
+        { "eName": "apple", "pName": "اپل" },
+        { "eName": "samsung", "pName": "سامسونگ" }
+      ],
+      "title": "برند"
+    },
+
     {
       "name": "Discount",
       "type": "bool",
       "title": "فقط کاللاهای دارای تخفیف"
     },
-    { "name": "availability", "type": "bool", "title": "فقط کالاهای موجود" }
+    {
+      "name": "availability",
+      "type": "bool",
+      "title": "فقط کالاهای موجود"
+    }
   ]
 }

@@ -7,7 +7,7 @@
       "Rated": "4.8",
       "price": 200,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(1).jpg",
@@ -42,7 +42,7 @@
       "Rated": "4.1",
       "price": 200,
       "Discount": 20,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(1).jpg",
@@ -112,7 +112,7 @@
       "Rated": "3.8",
       "price": 200,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(1).jpg",
@@ -143,7 +143,7 @@
       "Rated": "4.7",
       "price": 200,
       "Discount": 20,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(1).jpg",

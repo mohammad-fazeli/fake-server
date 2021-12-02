@@ -7,8 +7,8 @@
       "Rated": 3.8,
       "price": 18800,
       "Discount": 75,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/01/a%20(1).jpg"
+      "availability": true,
+      "images": "/img/book/01/a (1).jpg"
     },
     {
       "id": 27,
@@ -17,8 +17,8 @@
       "Rated": 4.1,
       "price": 23000,
       "Discount": 77,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/02/m%20(1).jpg"
+      "availability": true,
+      "images": "/img/book/02/m (1).jpg"
     },
     {
       "id": 28,
@@ -27,17 +27,17 @@
       "Rated": 3.5,
       "price": 29900,
       "Discount": 77,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/03/t%20(1).jpg"
+      "availability": true,
+      "images": "/img/book/03/t (1).jpg"
     }
   ],
   "subdivision": [],
-  "filtrts": [
+  "filters": [
     {
       "name": "price",
       "type": "range",
-      "startvalue": 0,
-      "endvalue": 29900,
+      "min": 0,
+      "max": 29900,
       "title": "قیمت"
     },
     {

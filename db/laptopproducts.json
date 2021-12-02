@@ -8,7 +8,7 @@
       "Rated": 4.1,
       "price": 113385000,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(1).jpg",
@@ -128,7 +128,7 @@
       "Rated": 4.4,
       "price": 6899000,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(1).jpg",
@@ -244,7 +244,7 @@
       "Rated": 4.5,
       "price": 43964000,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(1).jpg",
@@ -364,7 +364,7 @@
       "Rated": 4.4,
       "price": 93990000,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(1).jpg",
@@ -488,7 +488,7 @@
       "Rated": 3.2,
       "price": 22640000,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(4).jpg",
@@ -588,7 +588,7 @@
       "Rated": 4.3,
       "price": 47800000,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(1).jpg",
@@ -704,7 +704,7 @@
       "Rated": 4.3,
       "price": 29964000,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(1).jpg",

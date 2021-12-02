@@ -2,25 +2,25 @@
   "data": [
     {
       "id": 7,
-      "model": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(1).jpg",
-      "category": "لپ تاپ",
+      "model": "لپ تاپ GE66 Raider",
+      "category": "Laptop",
       "Brand": "MSI",
       "Rated": 4.1,
       "price": 113385000,
       "Discount": 0,
-      "availability": "Available",
-      "images": "/img/macbook-01.png"
+      "availability": true,
+      "images": "/img/Laptop/GE66 Raider/GE66 Raider (1).jpg"
     },
     {
       "id": 8,
       "model": "لپ تاپ 15.6 اینچی اچ پی مدل 15ef1013dx",
-      "category": "لپ تاپ",
+      "category": "Laptop",
       "Brand": "HP",
       "Rated": 4.4,
       "price": 6899000,
       "Discount": 0,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(1).jpg"
+      "availability": false,
+      "images": "/img/Laptop/15ef1013dx/15ef1013dx (1).jpg"
     },
     {
       "id": 9,
@@ -30,69 +30,76 @@
       "Rated": 4.5,
       "price": 43964000,
       "Discount": 0,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(1).jpg"
+      "availability": true,
+      "images": "/img/Laptop/MacBook pro/MacBook pro (1).jpg"
     },
     {
       "id": 10,
       "model": "لپ تاپ 15.6 اینچی اچ پی مدل لپ تاپ 15 اینچی مایکروسافت مدل Surface Book 3- F",
-      "category": "لپ تاپ",
+      "category": "Laptop",
       "Brand": "Microsoft",
       "Rated": 4.4,
       "price": 93990000,
       "Discount": 0,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(1).jpg"
+      "availability": true,
+      "images": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (1).jpg"
     },
     {
       "id": 11,
       "model": "لپ تاپ 14 اینچی ایسوس مدل ZenBook 14 UX425EA-KI504",
-      "category": "لپ تاپ",
+      "category": "Laptop",
       "Brand": "ASUS",
       "Rated": 3.2,
       "price": 22640000,
       "Discount": 0,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(1).jpg"
+      "availability": true,
+      "images": "/img/Laptop/ZenBook 14 UX425EA-KI504/ZenBook 14 UX425EA-KI504 (1).jpg"
     },
     {
       "id": 12,
       "model": "لپ تاپ 15.6 اینچی اچ پی مدل لپ تاپ 14 اینچی ایسوس مدل ZenBook 14 UX482EG-KA151T",
-      "category": "لپ تاپ",
+      "category": "Laptop",
       "Brand": "ASUS",
       "Rated": 4.3,
       "price": 47800000,
       "Discount": 0,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014/ZenBook%2014%20(1).jpg"
+      "availability": true,
+      "images": "/img/Laptop/ZenBook 14/ZenBook 14 (1).jpg"
     },
     {
       "id": 13,
       "model": "لپ تاپ 13 اینچی اپل مدل MacBook Air MGN63 2020",
-      "category": "لپ تاپ",
+      "category": "Laptop",
       "Brand": "Apple",
       "Rated": 4.3,
       "price": 29964000,
       "Discount": 0,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(1).jpg"
+      "availability": true,
+      "images": "/img/Laptop/MacBook/macbook air (1).jpg"
     }
   ],
   "subdivision": [],
-  "filtrts": [
-    {
-      "name": "Brand",
-      "type": "list",
-      "value": [],
-      "title": "برند"
-    },
+  "filters": [
     {
       "name": "price",
       "type": "range",
-      "startvalue": 0,
-      "endvalue": 113385000,
-      "title": "قیمت"
+      "min": 0,
+      "max": 113385000,
+      "title": "محدوده قیمت مورد نظر"
     },
+    {
+      "name": "Brand",
+      "type": "list",
+      "value": [
+        { "eName": "Apple", "pName": "اپل" },
+        { "eName": "ASUS", "pName": "ایسوس" },
+        { "eName": "Microsoft", "pName": "ماکروسافت" },
+        { "eName": "HP", "pName": "اچ پی" },
+        { "eName": "MSI", "pName": "ام اس ای" }
+      ],
+      "title": "برند"
+    },
+
     {
       "name": "Discount",
       "type": "bool",

@@ -7,27 +7,27 @@
       "Rated": 3.8,
       "price": 18800,
       "Discount": 75,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/01/a%20(1).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/01/a%20(1).jpg"
+          "original": "/img/book/01/a (1).jpg",
+          "thumbnail": "/img/book/01/a (1).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/01/a%20(2).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/01/a%20(2).jpg"
+          "original": "/img/book/01/a (2).jpg",
+          "thumbnail": "/img/book/01/a (2).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/01/a%20(3).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/01/a%20(3).jpg"
+          "original": "/img/book/01/a (3).jpg",
+          "thumbnail": "/img/book/01/a (3).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/01/a%20(4).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/01/a%20(4).jpg"
+          "original": "/img/book/01/a (4).jpg",
+          "thumbnail": "/img/book/01/a (4).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/01/a%20(5).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/01/a%20(5).jpg"
+          "original": "/img/book/01/a (5).jpg",
+          "thumbnail": "/img/book/01/a (5).jpg"
         }
       ],
       "description": "خلاصه کتاب اثر مرکب «انتخاب‌های شما تنها زمانی معنی دار است که آنها را به دلخواه به رؤیاهای خود متصل کنید. انتخاب‌های شایسته و انگیزشی، همان‌هایی هستند که شما به عنوان هدف خود و هسته اصلی زندگی خود در بالاترین ارزش‌های خود تعین می‌کنید. شما باید چیزی را بخواهید و می‌دانید که چرا شما آن را می‌خواهید یا به راحتی می‌توانید آن از دست بدهید.» «اولین گام در جهت تغییر، آگاهی است. اگر می‌خواهید از جایی که هستید به جایی که می‌خواهید بروید، باید با درک انتخاب‌هایی که شما را از مقصد مورد نظر خود دور می‌کنند، شروع کنید.» «فرمول کامل برای به دست آوردن خوش شانسی: آماده‌سازی (رشد شخصی) + نگرش (باور / ذهنیت) + فرصت (چیز خوبی که راه را هموار می‌کند) + اقدام (انجام کاری در مورد نظر) = شانس» «ما همه می‌توانیم انتخاب‌های بسیار خوبی داشته باشیم. ما می‌توانیم همه چیز را کنترل کنیم. این در توانایی ماست که همه چیز را تغییر دهیم. به جای اینکه غرق در گذشته شویم، باید دوباره انرژی خود را جمع کنیم، می‌توانیم از تجربیات گذشته برای حرکت‌های مثبت و سازنده استفاده کنیم.» برای ایجاد تغییر، ما نیاز به این داریم که عادات و رفتار خوب را ایجاد کنیم، که در کتاب از آن به عنوان تکانش یاد می شود. تکانش بدین معنی که با ریتم منظم و دائمی و ثبات قدم همراه باشید. حرکت های افراطی و تفریطی، موضع های عجله ای و جوگیر شدن و عدم ریتم مناسب موجب خواهد شد که ثبات قدم نداشته باشیم و حتی شاید از مسیر اصلی دور شویم و تکانش ما با لرزه های فراوان و یا حتی سکون و سکوت مواجه شود. واقعیت رهرو آن است که آهسته و پیوسته رود اینجا پدیدار می گردد و باید همیشه بدانیم هیچ چیز مثل عدم ثبات قدم و نداشتن ریتم مناسب در زمان تغییر، نمی تواند تکانش را با مشکل مواجه کند! متن بالا شاید بهترین خلاصه ای باشد که می شود از کتاب نوشت!",
@@ -73,19 +73,19 @@
       "Rated": 4.1,
       "price": 23000,
       "Discount": 77,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/02/m%20(1).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/02/m%20(1).jpg"
+          "original": "/img/book/02/m (1).jpg",
+          "thumbnail": "/img/book/02/m (1).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/02/m%20(2).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/02/m%20(2).jpg"
+          "original": "/img/book/02/m (2).jpg",
+          "thumbnail": "/img/book/02/m (2).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/02/m%20(3).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/02/m%20(3).jpg"
+          "original": "/img/book/02/m (3).jpg",
+          "thumbnail": "/img/book/02/m (3).jpg"
         }
       ],
       "description": "درباره‌ی کتاب معجزه سپاسگزاری: زندگی مملو از اتفاقات ناگهانی و مصائب سخت و پیچیده است که گاهی منجر به فراموشی نعمات بیشماری که خداوند در اختیار انسان قرار داده است می‌شود. راندا برن (Rhonda Byrne) نویسنده استرالیایی و چهره تاثیرگذار سال 2007 مجله تایمز، در کتاب معجزه سپاسگزاری (The Magic) به اهمیت این موضوع در جنبه‌های مختلف زندگی انسان می‌پردازد و یادآوری می‌کند که سپاسگزار بودن تا چه حد می‌تواند در زندگی افراد اثربخش باشد و با روش‌هایی که پیش رویتان می‌گذارد، شما را به سوی احساس رضایت درونی، زندگی سالم‌تر و روابط بهتر سوق می‌دهد. گاهی به دلیل غرق شدن در زندگی روزمره بسیاری از نعمات زندگی برایتان عادی می‌شود و اهمیت آن‌ها در ذهنتان کم‌رنگ می‌شود. برن سعی دارد با استفاده از تمارین ساده اما کارآمد، این فراموشی را از بین ببرد تا بیشتر از قبل قدر داشته‌هایتان را بدانید و از غم و اندوهی که به سبب سختی‌ها و رنج‌های زندگی متحمل شدید رهایی یابید. حتما شما در طول زندگی برای مسائل مختلف از خداوند سپاسگزار بوده‌اید، اما این کار را به عنوان یک عادت در زندگی خود تبدیل نکرده‌اید. هدف نویسنده از نوشتن کتاب حاضر، شکرگزاری آگاهانه است تا با استفاده از آن، این عمل تاثیرگذار را به عادت هر روزتان تبدیل کنید. هرچه بیشتر سپاسگزار باشید، بیشتر در زندگی احساس رضایت خاطر می‌کنید و کمتر دست به شکوه و نا‌رضایتی می‌زنید. با استفاده از تمارین کتاب حاضر می‌توانید تفکرات منفی، رنج‌ها و مشکلات خود را بهبود بخشید و آرزوهای دور از ذهنتان را به واقعیت تبدیل کنید.",
@@ -131,15 +131,15 @@
       "Rated": 3.5,
       "price": 29900,
       "Discount": 77,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/03/t%20(1).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/03/t%20(1).jpg"
+          "original": "/img/book/03/t (1).jpg",
+          "thumbnail": "/img/book/03/t (1).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/03/t%20(2).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/book/03/t%20(2).jpg"
+          "original": "/img/book/03/t (2).jpg",
+          "thumbnail": "/img/book/03/t (2).jpg"
         }
       ],
       "description": "جیمز کلیر یکی از بهترین نویسندگان و سخنرانان حوزه بهبود فردی است که تلاش دارد مخاطبان خود را به سمت بهبود مستمر هدایت کند. کتاب عادت های اتمی یا «Atomic Habits» یکی از آثار فوق‌العاده او است که دو هدف اصلی دارد و به بررسی آن‌ها می‌پردازد. اول اینکه عادت‌های خوب را در خود ایجاد کنیم و دوم اینکه عادت‌‎های بد را در خود کم‌رنگ کنیم و در نهایت آن‌ها را به صورت کامل از وجود خود ریشه‌کن کنیم. این کتاب در واقع سبکی مشابه با کتاب «اثر مرکب» به قلم دارن هاردی دارد و می‌تواند تأثیر قابل توجهی بر عادت‌های موجود در زندگی شما بگذارد. عادت‌های اتمی، عادت‌های ریز و کوچکی هستند که به اتم تشبیه شده‌اند. این عادات مانند اتم کوچک هستند اما توانایی قدرتمند بودن را دارند. این عادت‌ها زمانی قدرتمندتر می‌شوند که به صورت مکرر تکرار شوند. شما اگر بتوانید روز به روز در خودتان عادت‌های خوب را در خودتان تقویت کنید بعد از مدتی نتیجه آن را مشاهده خواهید کرد و در مقابل بر عکس این حالت نیز ممکن است اتفاق بیفتد. به عنوان مثال شما اگر یک کتاب درسی را هر روز بخوانید دیگر نزدیک امتحان استرس و نگرانی نخواهید داشت و همچنین اگر زیاد از نوشابه مصرف کنید به مرور این برای شما تبدیل به یک عادت روزانه خواهد شد",

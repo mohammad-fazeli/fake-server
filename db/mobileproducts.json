@@ -8,7 +8,7 @@
       "Rated": 4.4,
       "price": 6899000,
       "discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/moblie/poco%20x3%20pro/poco%20x3%20pro%20(1).jpg",
@@ -165,7 +165,7 @@
       "Rated": 4.4,
       "price": 40699900,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/moblie/iPhone%2012%20Pro%20Max/iPhone%2012%20Pro%20Max%20(1).jpg",
@@ -322,7 +322,7 @@
       "Rated": 4,
       "price": 31499000,
       "Discount": 0,
-      "availability": "available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/moblie/iPhone%2013/iPhone%2013%20(1).jpg",
@@ -469,7 +469,7 @@
       "Rated": 4.3,
       "price": 200,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/moblie/s20/s20%20(1).jpg",
@@ -620,7 +620,7 @@
       "Rated": "4.3",
       "price": 25890000,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/moblie/Galaxy%20Note20%20Ultra%205G/Galaxy%20Note20%20Ultra%205G%20(1).jpg",
@@ -779,7 +779,7 @@
       "Rated": "4.3",
       "price": 14699000,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/moblie/Mi%2011i%205G/%20Mi%2011i%205G%20(1).jpg",

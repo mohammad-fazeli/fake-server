@@ -1,14 +1,14 @@
 {
-  "womenswear": [
+  "data": [
     {
       "id": 17,
       "model": "ست کت و شلوار زنانه السانا مدل راما کد 73401",
-      "category": "لباس زنانه",
+      "category": "womenswear",
       "Rated": 3.9,
       "price": 368000,
       "Discount": 8,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenswear/73401/73401%20(1).jpg"
+      "availability": true,
+      "images": "/img/clothing/womenswear/73401/73401 (1).jpg"
     },
     {
       "id": 18,
@@ -17,8 +17,8 @@
       "Rated": 3.9,
       "price": 248000,
       "Discount": 17,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenswear/29601/29601%20(1).jpg"
+      "availability": true,
+      "images": "/img/clothing/womenswear/29601/29601 (1).jpg"
     },
     {
       "id": 19,
@@ -27,17 +27,17 @@
       "Rated": 2.6,
       "price": 108000,
       "Discount": 0,
-      "availability": "Available",
-      "images": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenswear/54/54.jpg"
+      "availability": true,
+      "images": "/img/clothing/womenswear/54/54.jpg"
     }
   ],
   "subdivision": [],
-  "filtrts": [
+  "filters": [
     {
       "name": "price",
       "type": "range",
-      "startvalue": 0,
-      "endvalue": 368000,
+      "min": 0,
+      "max": 368000,
       "title": "قیمت"
     },
     {

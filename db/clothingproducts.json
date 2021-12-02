@@ -7,7 +7,7 @@
       "Rated": 3.8,
       "price": 438000,
       "Discount": 27,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/menswear/563-1/563-1%20(1).jpg",
@@ -62,7 +62,7 @@
       "Rated": 3.9,
       "price": 116000,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/menswear/A03/A03.jpg",
@@ -107,7 +107,7 @@
       "Rated": 3.9,
       "price": 88500,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/menswear/rm9937/rm9937%20(1).jpg",
@@ -160,7 +160,7 @@
       "Rated": 3.9,
       "price": 368000,
       "Discount": 8,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenswear/73401/73401%20(1).jpg",
@@ -214,7 +214,7 @@
       "Rated": 3.9,
       "price": 248000,
       "Discount": 17,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenswear/29601/29601%20(1).jpg",
@@ -269,7 +269,7 @@
       "Rated": 2.6,
       "price": 108000,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenswear/54/54.jpg",
@@ -315,7 +315,7 @@
       "Rated": 4.2,
       "price": 175000,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/menshoes/Sa%20304/Sa%20304%20(1).jpg",
@@ -381,7 +381,7 @@
       "Rated": 4.2,
       "price": 1550000,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/menshoes/110396A-1/110396A-1%20(1).jpg",
@@ -448,7 +448,7 @@
       "Rated": 4.2,
       "price": 649000,
       "Discount": 0,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/menshoes/G1274/G1274%20(1).jpg",
@@ -515,7 +515,7 @@
       "Rated": 2.3,
       "price": 181000,
       "Discount": 28,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenshoes/B1002/B1002%20(1).jpg",
@@ -579,7 +579,7 @@
       "Rated": 5,
       "price": 238000,
       "Discount": 32,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenshoes/%D9%86%DB%8C%D9%85%20%D8%A8%D9%88%D8%AA%20%D8%B2%D9%86%D8%A7%D9%86%D9%87%20%D9%85%D8%AF%D9%84%20%D9%BE%D8%A7%D8%B4%D9%86%D9%87%20%D9%85%D8%AC%D9%84%D8%B3%DB%8C/%D9%86%DB%8C%D9%85%20%D8%A8%D9%88%D8%AA%20%D8%B2%D9%86%D8%A7%D9%86%D9%87%20%D9%85%D8%AF%D9%84%20%D9%BE%D8%A7%D8%B4%D9%86%D9%87%20%D9%85%D8%AC%D9%84%D8%B3%DB%8C%20(1).jpg",
@@ -644,7 +644,7 @@
       "Rated": 3.8,
       "price": 149000,
       "Discount": 24,
-      "availability": "Available",
+      "availability": true,
       "images": [
         {
           "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/clothing/womenshoes/J2-Wh/J2-Wh%20(1).jpg",
