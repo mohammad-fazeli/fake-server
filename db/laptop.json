@@ -3,7 +3,7 @@
     {
       "id": 7,
       "model": "لپ تاپ GE66 Raider",
-      "category": "Laptop",
+      "category": "laptop",
       "Brand": "MSI",
       "Rated": 4.1,
       "price": 113385000,
@@ -14,7 +14,7 @@
     {
       "id": 8,
       "model": "لپ تاپ 15.6 اینچی اچ پی مدل 15ef1013dx",
-      "category": "Laptop",
+      "category": "laptop",
       "Brand": "HP",
       "Rated": 4.4,
       "price": 6899000,
@@ -25,7 +25,7 @@
     {
       "id": 9,
       "model": "لپ تاپ 13 اینچی اپل مدل MacBook Pro MYD92 2020 همراه با تاچ بار",
-      "category": "لپ تاپ",
+      "category": "laptop",
       "Brand": "Apple",
       "Rated": 4.5,
       "price": 43964000,
@@ -36,7 +36,7 @@
     {
       "id": 10,
       "model": "لپ تاپ 15.6 اینچی اچ پی مدل لپ تاپ 15 اینچی مایکروسافت مدل Surface Book 3- F",
-      "category": "Laptop",
+      "category": "laptop",
       "Brand": "Microsoft",
       "Rated": 4.4,
       "price": 93990000,
@@ -47,7 +47,7 @@
     {
       "id": 11,
       "model": "لپ تاپ 14 اینچی ایسوس مدل ZenBook 14 UX425EA-KI504",
-      "category": "Laptop",
+      "category": "laptop",
       "Brand": "ASUS",
       "Rated": 3.2,
       "price": 22640000,
@@ -58,7 +58,7 @@
     {
       "id": 12,
       "model": "لپ تاپ 15.6 اینچی اچ پی مدل لپ تاپ 14 اینچی ایسوس مدل ZenBook 14 UX482EG-KA151T",
-      "category": "Laptop",
+      "category": "laptop",
       "Brand": "ASUS",
       "Rated": 4.3,
       "price": 47800000,
@@ -69,7 +69,7 @@
     {
       "id": 13,
       "model": "لپ تاپ 13 اینچی اپل مدل MacBook Air MGN63 2020",
-      "category": "Laptop",
+      "category": "laptop",
       "Brand": "Apple",
       "Rated": 4.3,
       "price": 29964000,

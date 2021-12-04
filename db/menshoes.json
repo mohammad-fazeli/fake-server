@@ -3,7 +3,7 @@
     {
       "id": 20,
       "model": "کفش مخصوص پیاده روی سعیدی کد Sa 304",
-      "category": "menshoes",
+      "category": "clothing",
       "Rated": 4.2,
       "price": 175000,
       "Discount": 0,
@@ -13,7 +13,7 @@
     {
       "id": 21,
       "model": "کفش پیاده روی مردانه هامتو مدل 110396A-1",
-      "category": "menshoes",
+      "category": "clothing",
       "Rated": 4.2,
       "price": 1550000,
       "Discount": 0,
@@ -23,7 +23,7 @@
     {
       "id": 22,
       "model": "نیم بوت مردانه پاما مدل SNO-85 کد G1274",
-      "category": "menshoes",
+      "category": "clothing",
       "Rated": 4.2,
       "price": 649000,
       "Discount": 0,

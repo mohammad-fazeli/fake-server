@@ -3,7 +3,7 @@
     {
       "id": 14,
       "model": "سوییشرت مردانه باینت کد 563-1",
-      "category": "menswear",
+      "category": "clothing",
       "Rated": 3.8,
       "price": 438000,
       "Discount": 27,
@@ -13,7 +13,7 @@
     {
       "id": 15,
       "model": "هودی مردانه طرح چنگ کد A03 رنگ مشکی",
-      "category": "menswear",
+      "category": "clothing",
       "Rated": 3.9,
       "price": 116000,
       "Discount": 0,
@@ -23,7 +23,7 @@
     {
       "id": 16,
       "model": "پیراهن مردانه مدل rm9937",
-      "category": "لباس مردانه",
+      "category": "clothing",
       "Rated": 3.9,
       "price": 88500,
       "Discount": 0,
@@ -33,7 +33,7 @@
     {
       "id": 17,
       "model": "ست کت و شلوار زنانه السانا مدل راما کد 73401",
-      "category": "womenswear",
+      "category": "clothing",
       "Rated": 3.9,
       "price": 368000,
       "Discount": 8,
@@ -43,7 +43,7 @@
     {
       "id": 18,
       "model": "ست کت و شلوار زنانه السانا مدل راما کد مانتو زنانه مانتو ولیعصر مدل همتا کد 29601",
-      "category": "لباس زنانه",
+      "category": "clothing",
       "Rated": 3.9,
       "price": 248000,
       "Discount": 17,
@@ -53,7 +53,7 @@
     {
       "id": 19,
       "model": "پانچو زنانه كد 54",
-      "category": "لباس زنانه",
+      "category": "clothing",
       "Rated": 2.6,
       "price": 108000,
       "Discount": 0,
@@ -63,7 +63,7 @@
     {
       "id": 20,
       "model": "کفش مخصوص پیاده روی سعیدی کد Sa 304",
-      "category": "menshoes",
+      "category": "clothing",
       "Rated": 4.2,
       "price": 175000,
       "Discount": 0,
@@ -73,7 +73,7 @@
     {
       "id": 21,
       "model": "کفش پیاده روی مردانه هامتو مدل 110396A-1",
-      "category": "menshoes",
+      "category": "clothing",
       "Rated": 4.2,
       "price": 1550000,
       "Discount": 0,
@@ -83,7 +83,7 @@
     {
       "id": 22,
       "model": "نیم بوت مردانه پاما مدل SNO-85 کد G1274",
-      "category": "menshoes",
+      "category": "clothing",
       "Rated": 4.2,
       "price": 649000,
       "Discount": 0,
@@ -93,7 +93,7 @@
     {
       "id": 23,
       "model": "نیم بوت زنانه مدل B1002",
-      "category": "womenshoes",
+      "category": "clothing",
       "Rated": 2.3,
       "price": 181000,
       "Discount": 28,
@@ -103,7 +103,7 @@
     {
       "id": 24,
       "model": "نیم بوت زنانه مدل پاشنه مجلسی",
-      "category": "womenshoes",
+      "category": "clothing",
       "Rated": 5,
       "price": 238000,
       "Discount": 32,
@@ -113,7 +113,7 @@
     {
       "id": 25,
       "model": "کفش مخصوص پیاده روی زنانه مدل J2-Wh",
-      "category": "womenshoes",
+      "category": "clothing",
       "Rated": 3.8,
       "price": 149000,
       "Discount": 24,

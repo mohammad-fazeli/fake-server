@@ -3,7 +3,7 @@
     {
       "id": 23,
       "model": "نیم بوت زنانه مدل B1002",
-      "category": "womenshoes",
+      "category": "clothing",
       "Rated": 2.3,
       "price": 181000,
       "Discount": 28,
@@ -13,7 +13,7 @@
     {
       "id": 24,
       "model": "نیم بوت زنانه مدل پاشنه مجلسی",
-      "category": "womenshoes",
+      "category": "clothing",
       "Rated": 5,
       "price": 238000,
       "Discount": 32,
@@ -23,7 +23,7 @@
     {
       "id": 25,
       "model": "کفش مخصوص پیاده روی زنانه مدل J2-Wh",
-      "category": "womenshoes",
+      "category": "clothing",
       "Rated": 3.8,
       "price": 149000,
       "Discount": 24,
