@@ -11,28 +11,28 @@
       "availability": true,
       "images": [
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(1).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(1).jpg"
+          "original": "/img/Laptop/GE66 Raider/GE66 Raider (1).jpg",
+          "thumbnail": "/img/Laptop/GE66 Raider/GE66 Raider (1).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(2).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(2).jpg"
+          "original": "/img/Laptop/GE66 Raider/GE66 Raider (2).jpg",
+          "thumbnail": "/img/Laptop/GE66 Raider/GE66 Raider (2).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(3).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(3).jpg"
+          "original": "/img/Laptop/GE66 Raider/GE66 Raider (3).jpg",
+          "thumbnail": "/img/Laptop/GE66 Raider/GE66 Raider (3).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(4).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(4).jpg"
+          "original": "/img/Laptop/GE66 Raider/GE66 Raider (4).jpg",
+          "thumbnail": "/img/Laptop/GE66 Raider/GE66 Raider (4).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(5).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(5).jpg"
+          "original": "/img/Laptop/GE66 Raider/GE66 Raider (5).jpg",
+          "thumbnail": "/img/Laptop/GE66 Raider/GE66 Raider (5).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(6).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/GE66%20Raider/GE66%20Raider%20(6).jpg"
+          "original": "/img/Laptop/GE66 Raider/GE66 Raider (6).jpg",
+          "thumbnail": "/img/Laptop/GE66 Raider/GE66 Raider (6).jpg"
         }
       ],
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
@@ -102,21 +102,21 @@
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "5روز پیش",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/avatar.png"
         },
         {
           "name": "فرهاد فرهادی",
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "2 ماه پیش",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/noavatar.png"
         },
         {
           "name": "سارا دارایی",
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "1400/04/10",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/noavatar.png"
         }
       ]
     },
@@ -131,24 +131,24 @@
       "availability": true,
       "images": [
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(1).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(1).jpg"
+          "original": "/img/Laptop/15ef1013dx/15ef1013dx (1).jpg",
+          "thumbnail": "/img/Laptop/15ef1013dx/15ef1013dx (1).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(2).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(2).jpg"
+          "original": "/img/Laptop/15ef1013dx/15ef1013dx (2).jpg",
+          "thumbnail": "/img/Laptop/15ef1013dx/15ef1013dx (2).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(3).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(3).jpg"
+          "original": "/img/Laptop/15ef1013dx/15ef1013dx (3).jpg",
+          "thumbnail": "/img/Laptop/15ef1013dx/15ef1013dx (3).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(4).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(4).jpg"
+          "original": "/img/Laptop/15ef1013dx/15ef1013dx (4).jpg",
+          "thumbnail": "/img/Laptop/15ef1013dx/15ef1013dx (4).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(5).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/15ef1013dx/15ef1013dx%20(5).jpg"
+          "original": "/img/Laptop/15ef1013dx/15ef1013dx (5).jpg",
+          "thumbnail": "/img/Laptop/15ef1013dx/15ef1013dx (5).jpg"
         }
       ],
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
@@ -218,21 +218,21 @@
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "5روز پیش",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/avatar.png"
         },
         {
           "name": "فرهاد فرهادی",
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "2 ماه پیش",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/noavatar.png"
         },
         {
           "name": "سارا دارایی",
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "1400/04/10",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/noavatar.png"
         }
       ]
     },
@@ -247,28 +247,28 @@
       "availability": true,
       "images": [
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(1).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(1).jpg"
+          "original": "/img/Laptop/MacBook pro/MacBook pro (1).jpg",
+          "thumbnail": "/img/Laptop/MacBook pro/MacBook pro (1).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(2).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(2).jpg"
+          "original": "/img/Laptop/MacBook pro/MacBook pro (2).jpg",
+          "thumbnail": "/img/Laptop/MacBook pro/MacBook pro (2).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(3).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(3).jpg"
+          "original": "/img/Laptop/MacBook pro/MacBook pro (3).jpg",
+          "thumbnail": "/img/Laptop/MacBook pro/MacBook pro (3).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(4).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(4).jpg"
+          "original": "/img/Laptop/MacBook pro/MacBook pro (4).jpg",
+          "thumbnail": "/img/Laptop/MacBook pro/MacBook pro (4).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(5).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(5).jpg"
+          "original": "/img/Laptop/MacBook pro/MacBook pro (5).jpg",
+          "thumbnail": "/img/Laptop/MacBook pro/MacBook pro (5).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(6).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook%20pro/macbook%20pro%20(6).jpg"
+          "original": "/img/Laptop/MacBook pro/MacBook pro (6).jpg",
+          "thumbnail": "/img/Laptop/MacBook pro/MacBook pro (6).jpg"
         }
       ],
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
@@ -338,21 +338,21 @@
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "5روز پیش",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/avatar.png"
         },
         {
           "name": "فرهاد فرهادی",
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "2 ماه پیش",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/noavatar.png"
         },
         {
           "name": "سارا دارایی",
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "1400/04/10",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/noavatar.png"
         }
       ]
     },
@@ -367,32 +367,32 @@
       "availability": true,
       "images": [
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(1).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(1).jpg"
+          "original": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (1).jpg",
+          "thumbnail": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (1).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(2).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(2).jpg"
+          "original": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (2).jpg",
+          "thumbnail": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (2).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(3).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(3).jpg"
+          "original": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (3).jpg",
+          "thumbnail": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (3).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(4).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(4).jpg"
+          "original": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (4).jpg",
+          "thumbnail": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (4).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(5).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(5).jpg"
+          "original": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (5).jpg",
+          "thumbnail": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (5).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(6).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(6).jpg"
+          "original": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (6).jpg",
+          "thumbnail": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (6).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(7).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/Surface%20Book%203-%20F/Surface%20Book%203-%20F%20(7).jpg"
+          "original": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (7).jpg",
+          "thumbnail": "/img/Laptop/Surface Book 3- F/Surface Book 3- F (7).jpg"
         }
       ],
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
@@ -462,21 +462,21 @@
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "5روز پیش",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/avatar.png"
         },
         {
           "name": "فرهاد فرهادی",
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "2 ماه پیش",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/noavatar.png"
         },
         {
           "name": "سارا دارایی",
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "1400/04/10",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/noavatar.png"
         }
       ]
     },
@@ -491,8 +491,24 @@
       "availability": true,
       "images": [
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(4).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(4).jpg"
+          "original": "/img/Laptop/ZenBook 14 UX425EA-KI504/ZenBook 14 UX425EA-KI504 (1).jpg",
+          "thumbnail": "/img/Laptop/ZenBook 14 UX425EA-KI504/ZenBook 14 UX425EA-KI504 (1).jpg"
+        },
+        {
+          "original": "/img/Laptop/ZenBook 14 UX425EA-KI504/ZenBook 14 UX425EA-KI504 (2).jpg",
+          "thumbnail": "/img/Laptop/ZenBook 14 UX425EA-KI504/ZenBook 14 UX425EA-KI504 (2).jpg"
+        },
+        {
+          "original": "/img/Laptop/ZenBook 14 UX425EA-KI504/ZenBook 14 UX425EA-KI504 (3).jpg",
+          "thumbnail": "/img/Laptop/ZenBook 14 UX425EA-KI504/ZenBook 14 UX425EA-KI504 (3).jpg"
+        },
+        {
+          "original": "/img/Laptop/ZenBook 14 UX425EA-KI504/ZenBook 14 UX425EA-KI504 (4).jpg",
+          "thumbnail": "/img/Laptop/ZenBook 14 UX425EA-KI504/ZenBook 14 UX425EA-KI504 (4).jpg"
+        },
+        {
+          "original": "/img/Laptop/ZenBook 14 UX425EA-KI504/ZenBook 14 UX425EA-KI504 (5).jpg",
+          "thumbnail": "/img/Laptop/ZenBook 14 UX425EA-KI504/ZenBook 14 UX425EA-KI504 (5).jpg"
         }
       ],
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
@@ -562,21 +578,21 @@
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "5روز پیش",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/avatar.png"
         },
         {
           "name": "فرهاد فرهادی",
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "2 ماه پیش",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/noavatar.png"
         },
         {
           "name": "سارا دارایی",
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "1400/04/10",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/noavatar.png"
         }
       ]
     },
@@ -591,24 +607,24 @@
       "availability": true,
       "images": [
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(1).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(1).jpg"
+          "original": "/img/Laptop/ZenBook 14/ZenBook 14 (1).jpg",
+          "thumbnail": "/img/Laptop/ZenBook 14/ZenBook 14 (1).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(2).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(2).jpg"
+          "original": "/img/Laptop/ZenBook 14/ZenBook 14 (2).jpg",
+          "thumbnail": "/img/Laptop/ZenBook 14/ZenBook 14 (2).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(3).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(3).jpg"
+          "original": "/img/Laptop/ZenBook 14/ZenBook 14 (3).jpg",
+          "thumbnail": "/img/Laptop/ZenBook 14/ZenBook 14 (3).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(4).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(4).jpg"
+          "original": "/img/Laptop/ZenBook 14/ZenBook 14 (4).jpg",
+          "thumbnail": "/img/Laptop/ZenBook 14/ZenBook 14 (4).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(5).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/ZenBook%2014%20UX425EA-KI504/ZenBook%2014%20UX425EA-KI504%20(5).jpg"
+          "original": "/img/Laptop/ZenBook 14/ZenBook 14 (5).jpg",
+          "thumbnail": "/img/Laptop/ZenBook 14/ZenBook 14 (5).jpg"
         }
       ],
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
@@ -678,21 +694,21 @@
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "5روز پیش",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/avatar.png"
         },
         {
           "name": "فرهاد فرهادی",
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "2 ماه پیش",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/noavatar.png"
         },
         {
           "name": "سارا دارایی",
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "1400/04/10",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/noavatar.png"
         }
       ]
     },
@@ -707,28 +723,28 @@
       "availability": true,
       "images": [
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(1).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(1).jpg"
+          "original": "/img/Laptop/MacBook/macbook air (1).jpg",
+          "thumbnail": "/img/Laptop/MacBook/macbook air (1).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(2).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(2).jpg"
+          "original": "/img/Laptop/MacBook/macbook air (2).jpg",
+          "thumbnail": "/img/Laptop/MacBook/macbook air (2).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(3).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(3).jpg"
+          "original": "/img/Laptop/MacBook/macbook air (3).jpg",
+          "thumbnail": "/img/Laptop/MacBook/macbook air (3).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(4).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(4).jpg"
+          "original": "/img/Laptop/MacBook/macbook air (4).jpg",
+          "thumbnail": "/img/Laptop/MacBook/macbook air (4).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(5).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(5).jpg"
+          "original": "/img/Laptop/MacBook/macbook air (5).jpg",
+          "thumbnail": "/img/Laptop/MacBook/macbook air (5).jpg"
         },
         {
-          "original": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(6).jpg",
-          "thumbnail": "https://raw.githubusercontent.com/mohammad-fazeli/fake-server/master/image/Laptop/MacBook/macbook%20air%20(6).jpg"
+          "original": "/img/Laptop/MacBook/macbook air (6).jpg",
+          "thumbnail": "/img/Laptop/MacBook/macbook air (6).jpg"
         }
       ],
       "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.",
@@ -798,21 +814,21 @@
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "5روز پیش",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/avatar.png"
         },
         {
           "name": "فرهاد فرهادی",
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "2 ماه پیش",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/noavatar.png"
         },
         {
           "name": "سارا دارایی",
           "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون",
           "time": "1400/04/10",
           "rated": 4.4,
-          "Profile": "src"
+          "Profile": "/img/noavatar.png"
         }
       ]
     }
