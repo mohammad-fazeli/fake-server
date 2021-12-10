@@ -469,7 +469,7 @@
       "Rated": 4.3,
       "price": 200,
       "Discount": 0,
-      "availability": true,
+      "availability": false,
       "images": [
         {
           "original": "/img/mobile/s20/s20 (1).jpg",
