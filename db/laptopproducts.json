@@ -128,7 +128,7 @@
       "Rated": 4.4,
       "price": 6899000,
       "Discount": 0,
-      "availability": true,
+      "availability": false,
       "images": [
         {
           "original": "/img/Laptop/15ef1013dx/15ef1013dx (1).jpg",
